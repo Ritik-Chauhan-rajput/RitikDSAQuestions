@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0541-reverse-string-ii) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0541-reverse-string-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
 | ------- |
@@ -37,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
