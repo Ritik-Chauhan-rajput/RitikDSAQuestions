@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0541-reverse-string-ii) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0541-reverse-string-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
