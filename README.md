@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0876-middle-of-the-linked-list) |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
