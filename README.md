@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0541-reverse-string-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0724-find-pivot-index) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
