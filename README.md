@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0148-sort-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [2029-stone-game-ix](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2029-stone-game-ix) |
 ## Floyd's Cycle Finding Algorithm
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0234-palindrome-linked-list) |
 ## Minimax
 |  |
