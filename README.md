@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0344-reverse-string) |
+| [0457-circular-array-loop](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0876-middle-of-the-linked-list) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0457-circular-array-loop) |
 | [0724-find-pivot-index](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0242-valid-anagram) |
+| [0457-circular-array-loop](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0904-fruit-into-baskets) |
 ## Math
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0457-circular-array-loop) |
 ## Bracket Sequences
 |  |
 | ------- |
