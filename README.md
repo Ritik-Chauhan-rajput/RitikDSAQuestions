@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [2029-stone-game-ix](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
