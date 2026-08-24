@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0242-valid-anagram) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0567-permutation-in-string) |
