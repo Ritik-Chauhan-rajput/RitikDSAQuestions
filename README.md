@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2029-stone-game-ix](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Floyd's Cycle Finding Algorithm
