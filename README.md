@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2029-stone-game-ix](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2029-stone-game-ix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Rolling Hash
 |  |
