@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2029-stone-game-ix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2029-stone-game-ix](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
