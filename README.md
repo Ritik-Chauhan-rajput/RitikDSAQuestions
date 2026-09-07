@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0187-repeated-dna-sequences) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0187-repeated-dna-sequences) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1903-largest-odd-number-in-string) |
