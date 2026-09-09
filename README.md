@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0567-permutation-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1903-largest-odd-number-in-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0567-permutation-in-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0904-fruit-into-baskets) |
