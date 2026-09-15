@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2029-stone-game-ix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3169-count-days-without-meetings](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3169-count-days-without-meetings) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3169-count-days-without-meetings](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3169-count-days-without-meetings) |
 ## Merge Sort
 |  |
 | ------- |
