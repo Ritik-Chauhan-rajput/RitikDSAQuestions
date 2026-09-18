@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0057-insert-interval) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0283-move-zeroes) |
