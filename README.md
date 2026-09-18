@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0986-interval-list-intersections) |
@@ -83,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
 ## Dynamic Programming
 |  |
