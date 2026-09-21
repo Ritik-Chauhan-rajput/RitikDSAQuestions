@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0986-interval-list-intersections) |
+| [1288-remove-covered-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2029-stone-game-ix) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0242-valid-anagram) |
+| [1288-remove-covered-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3169-count-days-without-meetings](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3169-count-days-without-meetings) |
 ## Merge Sort
