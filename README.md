@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -247,4 +250,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
