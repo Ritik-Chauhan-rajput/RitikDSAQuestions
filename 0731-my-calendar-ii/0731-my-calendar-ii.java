@@ -1,43 +1,29 @@
 class MyCalendarTwo {
+    Map<Integer,Integer> map;
 
-    List<int[]> bookings;
-    List<int[]> overlapBookings;
     public MyCalendarTwo() {
-        bookings=new ArrayList<int[]>();
-        overlapBookings=new ArrayList<int[]>();
-            }
-    
-    public boolean overlap(int[] i1,int s2, int e2){
-        int s1=i1[0];
-        int e1=i1[1];
-        return e1>=s2 && e2>=s1;
+        map=new TreeMap<Integer,Integer>();
     }
     
     public boolean book(int startTime, int endTime) {
-        if(bookings.size()==0){
-            bookings.add(new int[]{
-                startTime,
-                endTime-1
-            });
-            return true;
-        }
-        for(int i=0;i<overlapBookings.size();i++){
-            if(overlap(overlapBookings.get(i), startTime,endTime-1)){
+        // startTime...map...startTime count + 1
+        // endTime...map...endTime count -1
+        map.put(startTime, map.getOrDefault(startTime,0)+1);
+        map.put(endTime, map.getOrDefault(endTime,0)-1);
+
+        // LSA algorithm run kerke dheko.. ki... triple booking ho rha hai ya nhi
+        int bookings=0;
+        for(Map.Entry<Integer, Integer> entry: map.entrySet()){
+             bookings= bookings+entry.getValue();
+
+             if(bookings>2){
+                // undo the operations jo hamne treemap me kra hai
+                map.put(startTime,map.get(startTime)-1);
+                map.put(endTime,map.get(endTime)+1);
+
                 return false;
-            }
+             }
         }
-        for(int i=0;i<bookings.size();i++){
-            if(overlap(bookings.get(i),startTime, endTime-1)){
-                overlapBookings.add(new int[]{
-                    Math.max(bookings.get(i)[0], startTime),
-                    Math.min(bookings.get(i)[1],endTime-1)
-                });
-            }
-        }
-        bookings.add(new int[]{
-            startTime,
-            endTime-1
-        });
         return true;
     }
 }
