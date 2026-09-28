@@ -21,6 +21,16 @@ class MyCalendarTwo {
                 map.put(startTime,map.get(startTime)-1);
                 map.put(endTime,map.get(endTime)+1);
 
+                // undo is completed
+
+                if(map.get(startTime)==0){
+                    map.remove(startTime);
+                }
+
+                if(map.get(endTime)==0){
+                    map.remove(endTime);
+                }
+                
                 return false;
              }
         }
