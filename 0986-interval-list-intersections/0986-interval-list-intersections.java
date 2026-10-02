@@ -1,30 +1,28 @@
+import java.util.*;
+
 class Solution {
     public int[][] intervalIntersection(int[][] firstList, int[][] secondList) {
-        List<int[]> res=new ArrayList<>();
-        int i=0;
-        int j=0;
-        while(i<firstList.length && j<secondList.length){
-            int s1=firstList[i][0];
-            int e1=firstList[i][1];
-            int s2=secondList[j][0];
-            int e2=secondList[j][1];
+        Arrays.sort(firstList, (a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(secondList, (a, b) -> Integer.compare(a[0], b[0]));
 
-            if(e1>=s2 && e2>=s1){
-                res.add(new int[]{
-                    Math.max(s1,s2),
-                    Math.min(e1,e2)
-                });
+        ArrayList<int[]> result = new ArrayList<>();
+
+        int i = 0;
+        int j = 0;
+
+        while (i < firstList.length && j < secondList.length) {
+            int start = Math.max(firstList[i][0], secondList[j][0]);
+            int end = Math.min(firstList[i][1], secondList[j][1]);
+            if (start <= end) {
+                result.add(new int[]{start, end});
             }
-        if(e1<e2){
-            i++;
-        }else{
-            j++;
+            if (firstList[i][1] < secondList[j][1]) {
+                i++;
+            } else {
+                j++;
+            }
         }
+
+        return result.toArray(new int[result.size()][]);
     }
-    int[][] ans=new int[res.size()][2];
-    for(int k=0;k<res.size();k++){
-        ans[k]=res.get(k);
-    }
-    return ans;
-}
 }
