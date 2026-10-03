@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0242-valid-anagram) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0032-longest-valid-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0032-longest-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
