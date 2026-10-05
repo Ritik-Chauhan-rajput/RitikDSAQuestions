@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0732-my-calendar-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1094-car-pooling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0729-my-calendar-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0732-my-calendar-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -264,16 +266,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0732-my-calendar-iii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0732-my-calendar-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
