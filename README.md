@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0242-valid-anagram) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0732-my-calendar-iii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0732-my-calendar-iii) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0732-my-calendar-iii) |
@@ -291,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1094-car-pooling) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
