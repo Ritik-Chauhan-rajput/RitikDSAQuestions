@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0986-interval-list-intersections) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ritik-Chauhan-rajput/RitikDSAQuestions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
